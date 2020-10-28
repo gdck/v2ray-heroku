@@ -10,6 +10,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/gdckv2ray-heroku",
+    "repository": "https://github.com/gdck/v2ray-heroku",
     "stack": "container"
 }
